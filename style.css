@@ -17,11 +17,12 @@ h1 {
     display: flex;
     background-image: url(/Images/top-banner.png);
     background-repeat: no-repeat;
+    margin-top: 150px;
 }
 
 .half-width {
     width: 50%;
-    padding: 20px;
+    padding: 60px;
 }
 
 .half-width img {
@@ -34,4 +35,12 @@ h1 {
     color: aliceblue;
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+.section2 {
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(/Images/dream-bg.png);
+    background-position: right;
+    margin-bottom: 150px;
 }
